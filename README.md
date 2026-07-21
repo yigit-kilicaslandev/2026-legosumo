@@ -1,2 +1,2 @@
 # 2026-legosumo
-My experience with the Robotex Marmara region competition.
+Lego Sumo Robot that can push other robots out of the ring. It was a fun and challenging experience to design and program the robot to compete against other teams. I learned a lot about robotics, programming, and teamwork. I also won the competition and received a trophy for my achievement. I was proud of my robot and the skills I developed during the competition. I hope to participate in more robotics competitions in the future and continue to improve my skills. I also want to thank my team members for their support and collaboration throughout the project. It was a great learning experience and I am excited to apply what I learned to future projects.
